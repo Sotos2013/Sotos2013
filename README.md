@@ -1,6 +1,6 @@
 # Hi there, I'm Sotos! 👋
 
-### 🎓 Software Engineer | Integrated Master (Level 7)
+### 🎓 Information and Electronic Engineering | Integrated Master (Level 7)
 Διπλωματούχος **Μηχανικός Πληροφορικής και Ηλεκτρονικών Συστημάτων** από το ΔΙΠΑΕ Σίνδου (Πολυτεχνική Σχολή). Κατά τη διάρκεια των σπουδών μου, εμβάθυνα στην αρχιτεκτονική λογισμικού και την επίλυση σύνθετων προβλημάτων.
 
 ---
