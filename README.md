@@ -1,4 +1,4 @@
-👋 Hi, I'm Sotos!
+# 👋 Hi, I'm Sotos!
 
 I'm an Informatics and Electronic Engineering graduate (Integrated Master, Level 7) from the International Hellenic University (IHU) with a passion for software development, system architecture, and modern technologies. I enjoy building backend services, mobile apps, and continuously learning new technologies.
 
