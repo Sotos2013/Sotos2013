@@ -1,32 +1,57 @@
-# Hi there, I'm Sotos! 👋
+👋 Hi, I'm Sotos!
 
-### 🎓 Information and Electronic Engineering | Integrated Master (Level 7)
-Διπλωματούχος **Μηχανικός Πληροφορικής και Ηλεκτρονικών Συστημάτων** από το ΔΙΠΑΕ Σίνδου (Πολυτεχνική Σχολή). Κατά τη διάρκεια των σπουδών μου, εμβάθυνα στην αρχιτεκτονική λογισμικού και την επίλυση σύνθετων προβλημάτων.
+I'm an Informatics and Electronic Engineering graduate (Integrated Master, Level 7) from the International Hellenic University (IHU) with a passion for software development, system architecture, and modern technologies. I enjoy building backend services, mobile apps, and continuously learning new technologies.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-Αν και έχω εμπειρία σε full-stack περιβάλλοντα, το πάθος μου βρίσκεται στο **Backend Development** και τη λογική των συστημάτων.
+### 💻 What am I currently working on?
 
-🏠 Member of [iee-ihu-gr-course1941](https://github.com/iee-ihu-gr-course1941) | Participating in Academic Software Projects
+* Building backend services and REST APIs with **Spring Boot** and **Java**
+* Developing cross-platform mobile applications using **Flutter** and **Kotlin**
+* Setting up and managing personal Linux home servers (**Debian**) and network services
+* Expanding my knowledge in software engineering, database design, and cloud technologies
 
-* **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-* **Specialties:** API Integration, OOP (Object-Oriented Programming), Data Handling, Mobile Logic.
-* **Languages:** Greek (Native), English (Lower Michigan B2).
+---
+
+### 🛠️ Tools & Technologies
+
+#### Programming Languages
+* Java
+* Kotlin
+* Dart
+* C
+* SQL
+* HTML5 / CSS3
+
+#### Frameworks & Technologies
+* Spring Boot
+* Thymeleaf
+* Flutter
+* Android SDK
+* MySQL / PostgreSQL
+
+#### Tools & Environment
+* Git & GitHub
+* VS Code
+* Android Studio
+* Debian Linux
 
 ---
 
 ### 🚀 Featured Projects
-* **Adopse App:** Android application (Kotlin) focused on dynamic search, filtering, and REST API consumption.
-* *Check my repositories for more backend-focused code samples!*
+
+* **Interactive Museum App (Integrated Master Thesis):** Developed an interactive software application designed to enhance visitor engagement for a technology museum (Grade: 8.5/10).
+* **Adopse App:** Android application built with Kotlin focused on dynamic search, data filtering, and REST API consumption.
 
 ---
 
-### 📊 GitHub Stats
-![Sotos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sotos2013&show_icons=true&theme=radical)
+### 🎓 About Me
+
+* 🎓 Informatics & Electronic Engineering Graduate (Integrated Master)
+* ⚙️ Passionate about Backend Development & Mobile Systems
+* 🐧 Linux enthusiast managing personal Debian servers
+* 🚀 Always learning, building, and refining new projects
 
 ---
 
-### 📫 Connect with me
-* **Education:** International Hellenic University (IHU) - Department of Information and Electronic Engineering.
-* **LinkedIn:** [Your-LinkedIn-Profile-Link]
+⭐ Feel free to explore my repositories and connect with me!
